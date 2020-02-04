@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "cbor": "^5.0.1"
+    "cbor": "^5.0.1",
+    "cbor-js": "^0.1.0"
   }
 }
