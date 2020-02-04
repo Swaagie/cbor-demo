@@ -1,0 +1,255 @@
+{
+  "countryKey": "US",
+  "label": "United States",
+  "callingCode": "1",
+  "states": [
+    {
+      "stateKey": "AA",
+      "label": "Armed Forces America"
+    },
+    {
+      "stateKey": "AE",
+      "label": "Armed Forces Other Areas"
+    },
+    {
+      "stateKey": "AK",
+      "label": "Alaska"
+    },
+    {
+      "stateKey": "AL",
+      "label": "Alabama"
+    },
+    {
+      "stateKey": "AP",
+      "label": "Armed Forces Pacific"
+    },
+    {
+      "stateKey": "AR",
+      "label": "Arkansas"
+    },
+    {
+      "stateKey": "AS",
+      "label": "American Samoa"
+    },
+    {
+      "stateKey": "AZ",
+      "label": "Arizona"
+    },
+    {
+      "stateKey": "CA",
+      "label": "California"
+    },
+    {
+      "stateKey": "CO",
+      "label": "Colorado"
+    },
+    {
+      "stateKey": "CT",
+      "label": "Connecticut"
+    },
+    {
+      "stateKey": "DC",
+      "label": "District of Columbia"
+    },
+    {
+      "stateKey": "DE",
+      "label": "Delaware"
+    },
+    {
+      "stateKey": "FL",
+      "label": "Florida"
+    },
+    {
+      "stateKey": "FM",
+      "label": "Federated States of Micronesia"
+    },
+    {
+      "stateKey": "GA",
+      "label": "Georgia"
+    },
+    {
+      "stateKey": "GU",
+      "label": "Guam"
+    },
+    {
+      "stateKey": "HI",
+      "label": "Hawaii"
+    },
+    {
+      "stateKey": "IA",
+      "label": "Iowa"
+    },
+    {
+      "stateKey": "ID",
+      "label": "Idaho"
+    },
+    {
+      "stateKey": "IL",
+      "label": "Illinois"
+    },
+    {
+      "stateKey": "IN",
+      "label": "Indiana"
+    },
+    {
+      "stateKey": "KS",
+      "label": "Kansas"
+    },
+    {
+      "stateKey": "KY",
+      "label": "Kentucky"
+    },
+    {
+      "stateKey": "LA",
+      "label": "Louisiana"
+    },
+    {
+      "stateKey": "MA",
+      "label": "Massachusetts"
+    },
+    {
+      "stateKey": "MD",
+      "label": "Maryland"
+    },
+    {
+      "stateKey": "ME",
+      "label": "Maine"
+    },
+    {
+      "stateKey": "MH",
+      "label": "Marshall Islands"
+    },
+    {
+      "stateKey": "MI",
+      "label": "Michigan"
+    },
+    {
+      "stateKey": "MN",
+      "label": "Minnesota"
+    },
+    {
+      "stateKey": "MO",
+      "label": "Missouri"
+    },
+    {
+      "stateKey": "MP",
+      "label": "Northern Mariana Islands"
+    },
+    {
+      "stateKey": "MS",
+      "label": "Mississippi"
+    },
+    {
+      "stateKey": "MT",
+      "label": "Montana"
+    },
+    {
+      "stateKey": "NC",
+      "label": "North Carolina"
+    },
+    {
+      "stateKey": "ND",
+      "label": "North Dakota"
+    },
+    {
+      "stateKey": "NE",
+      "label": "Nebraska"
+    },
+    {
+      "stateKey": "NH",
+      "label": "New Hampshire"
+    },
+    {
+      "stateKey": "NJ",
+      "label": "New Jersey"
+    },
+    {
+      "stateKey": "NM",
+      "label": "New Mexico"
+    },
+    {
+      "stateKey": "NV",
+      "label": "Nevada"
+    },
+    {
+      "stateKey": "NY",
+      "label": "New York"
+    },
+    {
+      "stateKey": "OH",
+      "label": "Ohio"
+    },
+    {
+      "stateKey": "OK",
+      "label": "Oklahoma"
+    },
+    {
+      "stateKey": "OR",
+      "label": "Oregon"
+    },
+    {
+      "stateKey": "PA",
+      "label": "Pennsylvania"
+    },
+    {
+      "stateKey": "PR",
+      "label": "Puerto Rico"
+    },
+    {
+      "stateKey": "PW",
+      "label": "Palau"
+    },
+    {
+      "stateKey": "RI",
+      "label": "Rhode Island"
+    },
+    {
+      "stateKey": "SC",
+      "label": "South Carolina"
+    },
+    {
+      "stateKey": "SD",
+      "label": "South Dakota"
+    },
+    {
+      "stateKey": "TN",
+      "label": "Tennessee"
+    },
+    {
+      "stateKey": "TX",
+      "label": "Texas"
+    },
+    {
+      "stateKey": "UT",
+      "label": "Utah"
+    },
+    {
+      "stateKey": "VA",
+      "label": "Virginia"
+    },
+    {
+      "stateKey": "VI",
+      "label": "U.S. Virgin Islands"
+    },
+    {
+      "stateKey": "VT",
+      "label": "Vermont"
+    },
+    {
+      "stateKey": "WA",
+      "label": "Washington"
+    },
+    {
+      "stateKey": "WI",
+      "label": "Wisconsin"
+    },
+    {
+      "stateKey": "WV",
+      "label": "West Virginia"
+    },
+    {
+      "stateKey": "WY",
+      "label": "Wyoming"
+    }
+  ]
+}
