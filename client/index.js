@@ -1,3 +1,5 @@
+// 0b   010           00101
+// 0b | type string | string length = 5
 const cbor = require('cbor');
 
 function main(markets) {
