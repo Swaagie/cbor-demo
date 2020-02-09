@@ -1,6 +1,6 @@
 const http = require('http');
 const cbor = require('cbor');
-const markets = require('./markets.json');
+const markets = require('../markets.json');
 
 const type = process.argv.pop();
 let contentType, data;
